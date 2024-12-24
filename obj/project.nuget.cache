@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYaq/wjb8+QTCUqHg7D9QsiXN2iq1ss3Ct/NnR5vV7xv0pGQaUjcPYst/l7/RaT8SGKtR4RrpQjF0MKSRbKq/w==",
+  "dgSpecHash": "dcxzJfEyfG5Fx8oakKLXH2YllA2P9YeAt5McchQJ3ijV3awzE9pQREmq1/C1i3D+IQjoY8oTdoD12OXvXYhDjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\основа\\основа.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\рабочий стол\\24ИС-11-2\\Shubina\\---------------\\основа.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
